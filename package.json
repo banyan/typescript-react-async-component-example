@@ -87,7 +87,7 @@
     ],
     "globals": {
       "ts-jest": {
-        "tsConfigFile": "/Users/banyan/tmp/ts-app/tsconfig.test.json"
+        "tsConfigFile": "tsconfig.test.json"
       }
     }
   },
